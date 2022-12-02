@@ -18,7 +18,7 @@ nav .logo{
     padding: 22px 20px;
     height: 80px;
     float: left;
-    font-size: 24px;
+    font-size: 36px;
     font-weight: bold;
     text-transform: uppercase;
     color: #fff;
@@ -41,7 +41,7 @@ nav ul li a{
     color: #fff;
     padding: 12px 30px;
     text-decoration: none;
-    font-size: 14px;
+    font-size: 24px;
     font-weight: bold;
     text-transform: uppercase;
 }
