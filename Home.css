@@ -62,26 +62,3 @@ nav ul li a:hover{
     -1px 1px 0 #000,
     1px 1px 0 #000;
 }
-  a:link {
-  color: #000;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-  a:visited {
-  color: gray;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-  a:hover {
-  color: blue;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-  a:active {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
