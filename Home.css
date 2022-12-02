@@ -46,7 +46,7 @@ nav ul li a{
     text-transform: uppercase;
 }
 nav ul li a:hover{
-    background: rgba(127,127,127,0.7);
+    background: rgba(100,100,100,0.5);
     border-radius: 6px;
 }    
 .opener{
