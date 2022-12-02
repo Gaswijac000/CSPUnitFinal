@@ -7,9 +7,6 @@ h2{
     color: white;
 
 }
-.opener{
- 
-}
 nav{
     position:fixed;
     top:0;
@@ -56,7 +53,7 @@ nav ul li a:hover{
     background: rgba(0,0,0,0.7);
     border-radius: 6px;
 }    
-.opener1{
+.opener{
     width: 100%;
     height: 100vh;
     background: url(https://wallpaper.dog/large/20497815.jpg);
