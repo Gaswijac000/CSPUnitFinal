@@ -62,28 +62,26 @@ nav ul li a:hover{
     -1px 1px 0 #000,
     1px 1px 0 #000;
 }
-.gametable{
-a:link {
+a:link .gametable{
   color: #000;
   background-color: transparent;
   text-decoration: none;
 }
 
-a:visited {
+a:visited .gametable {
   color: gray;
   background-color: transparent;
   text-decoration: none;
 }
 
-a:hover {
+a:hover .gametable {
   color: blue;
   background-color: transparent;
   text-decoration: none;
 }
 
-a:active {
+a:active .gametable {
   color: black;
   background-color: transparent;
   text-decoration: none;
-}
 }
