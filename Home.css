@@ -8,12 +8,7 @@ h2{
 
 }
 .opener{
-    color: #fff;
-    text-shadow:
-    -1px -1px 0 #000,
-    1px -1px 0 #000,
-    -1px 1px 0 #000,
-    1px 1px 0 #000; 
+ 
 }
 nav{
     position:fixed;
@@ -36,7 +31,12 @@ nav .logo{
     color: #fff;
     font-family: 'Courier New', Courier, monospace;
 }
-nav ul{
+nav ul{    color: #fff;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
     list-style: none;
     float: right;
     margin: 0;
@@ -62,4 +62,10 @@ nav ul li a:hover{
     background: url(https://wallpaper.dog/large/20497815.jpg);
     background-size: 100%;
     text-indent: 10px;
+    color: #fff;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
