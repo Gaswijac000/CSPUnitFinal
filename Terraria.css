@@ -11,7 +11,7 @@ nav{
     height: 100px;
     padding: 10px 90px;
     box-sizing: border-box;
-    background: rgba(127,127,127,0.6);
+    background: rgba(175,175,175,0.6);
     border-bottom: 1px solid #fff;
 }
 nav .logo{
@@ -47,6 +47,6 @@ nav ul li a{
     font-family: cursive;
 }
 nav ul li a:hover{
-    background: rgba(14, 13, 13, 0.7);
+    background: rgba(175, 175, 175, 0.7);
     border-radius: 6px;
 }   
