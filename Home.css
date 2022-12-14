@@ -81,3 +81,6 @@ a:active {
 table.GameTable{
 float: right;
 }
+section.games>p{
+margin: 10px
+}
